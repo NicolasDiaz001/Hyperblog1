@@ -11,5 +11,6 @@ En este curso vemos de todo:
 * Las personalidades multiples de Freddy
 * Creado por el invreible Platzo team
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 Y como un amable recodatorio **Este readme.md es un chiste**. Disenado para el ejemplo.
