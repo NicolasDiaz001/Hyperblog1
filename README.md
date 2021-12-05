@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El verdadero amor por la buenas practicas 
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+*Creado por el invreible Platzo team
 
 Y como un amable recodatorio **Este readme.md es un chiste**. Disenado para el ejemplo.
